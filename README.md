@@ -5,3 +5,4 @@ Models done so far:
   1. Regression BERT model based on Reddit news headlines
   2. Regression LSTM model based on past 60 days stock data
   3. Regression BERT model based on Trump tweets
+  4. Final ensemble model
